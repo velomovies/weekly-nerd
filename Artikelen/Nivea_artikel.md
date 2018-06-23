@@ -42,7 +42,7 @@ Naast dat dit heel ongemakkelijke situaties kan vormen kan het ook heel vervelen
 
 Niet invullen voor een ander kan een hulpmiddel zijn om beter te begrijpen wat iemand wil. Als je er bewust van bent kan je veel concretere oplossingen hebben. Je moet niet uitgaan van je eigen idee over anderen, maar kom met feiten. Laat de ander praten, die weet vaak meer over zichzelf dan jij doet. Kom met bewijzen en test je aannames. 
 
-Hoe werkt dat dan? Dat testen… [Lees dat hier!](/Testen_in_5_stappen_artikel.md)
+Hoe werkt dat dan? Dat testen… [Lees dat hier!](/Artikelen/Testen_in_5_stappen_artikel.md)
 
 ## Bronnen
 
