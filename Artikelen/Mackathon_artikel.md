@@ -6,6 +6,8 @@
 
 Meer dagen hebben we er niet van gemaakt. Officieel zou het niet als een hackathon worden gezien, dus vanaf nu noem ik het een mini-hackathon, een mackathon!
 
+========================================================================
+
 **18-05-2018 | 9.45 uur**
 
 Ik zet mijn fiets in het rek bij de HvA locatie, Leeuwenburg. We beginnen om 10.00 uur met de mackathon, mijn eerste hackathon. Bij het binnenlopen zie ik al andere studenten die de hackathon ook gaan doen. 
@@ -18,7 +20,11 @@ Na een heel bord vol geschreven te hebben, komt Gabriel met een uitleg van alles
 
 Iedereen heeft nu iets gekozen. Ook ik heb iets gekozen. Ik heb gekozen voor een ‘annotation tool’ voor het annoteren op foto’s. Samen met Jelle Overbeek ga ik iets in elkaar ‘hacken.’
 
+========================================================================
+
 We hadden ongeveer tot 14:00 uur om iets te maken. Dit betekent dat wij iets meer dan 3 uur hebben om iets te maken. Dit zorgt ervoor dat je als designer en front-ender heel snel heel veel beslissingen maken. Dit was dan ook het meest uitdagend van deze mackathon. In een eigenlijk veel te korte tijd iets neerzetten. Hier kan het meest uitgehaald worden. 
+
+========================================================================
 
 **18-05-2018 | 11.00 uur**
 
@@ -28,7 +34,11 @@ Samen met Jelle Overbeek ga ik aan het concept voor onze annotation. Wat gaan we
 
 Nadat we concreet hebben wat we willen beginnen we aan de code. Samen met Koos en Vienna zetten we één boilerplate op. We zetten die op github en maken ons eigen branch. Deze is te vinden op: [https://github.com/hackshackshacks/digital-design-prototype/tree/annotation](https://github.com/hackshackshacks/digital-design-prototype/tree/annotation)
 
+========================================================================
+
 Het is niet zo dat je bij een hackathon de hele dag moet zitten. Het blijft natuurlijk heel belangrijk om te blijven bewegen en goed te blijven eten. Tussendoor moet je blijven bewegen. Als er even tijd is loop je langs alles wat gemaakt wordt. Zodra de pizza er is, is het belangrijk dat je daar even van geniet. Misschien krijg je na het eten weer nieuwe inzichten.
+
+========================================================================
 
 **18-05-2018 | 13.50 uur**
 
