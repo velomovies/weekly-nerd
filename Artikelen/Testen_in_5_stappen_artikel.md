@@ -1,3 +1,5 @@
+[Vorige](/Artikelen/Nivea_artikel.md) | [Volgende](/Artikelen/De_eeuwige_discussie_artikel.md)
+
 # Testen in 5 stappen
 
 Testen is zeer belangrijk bij het bedenken en maken van een concept. Het wordt vaak overgeslagen, maar om een concept veel concreter te maken is dit juist heel belangrijk. In dit artikel staat uitgebreid beschreven hoe het testen werkt, hoe er zo goed mogelijke uitkomsten uit het testen komen en dus een beter product 

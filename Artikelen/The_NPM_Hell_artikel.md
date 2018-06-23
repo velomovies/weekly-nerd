@@ -1,3 +1,5 @@
+[Vorige](/Artikelen/De_eeuwige_discussie_artikel.md)
+
 # The NPM Hell
 
 Npm is the ‘world’s largest’ package manager for JavaScript used by a lot of front-enders. We wanted for our ‘meesterproef’ a good boilerplate and decided to have a great own made package.json. By making our own boilerplate it was particularly problem solving.
@@ -116,6 +118,6 @@ By making our own packages.json and NPM scripts for the ‘meesterproef’, we m
 
 ## Sources
 
-https://www.npmjs.com/
-https://github.com/Boegle/Boegle
+* https://www.npmjs.com/
+* https://github.com/Boegle/Boegle
 

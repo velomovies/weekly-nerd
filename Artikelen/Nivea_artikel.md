@@ -1,3 +1,5 @@
+[Vorige](/Artikelen/Mackathon_artikel.md) | [Volgende](/Artikelen/Testen_in_5_stappen_artikel.md)
+
 # Nivea
 
 Het gaat al meer dan 100 jaar terug en vandaag de dag wordt het nog steeds rijkelijk gebruikt. Wie kent het niet, nivea. 
@@ -6,7 +8,7 @@ Als je nu denkt dat ik het over die witte huidcrème heb, heb je het goed mis. D
 
 Nivea is een hele mooie afkorting voor: 
 
-**NIET INVULLEN VOOR EEN ANDER.**
+**__N__iet __I__nvullen __V__oor __E__en __A__nder.**
 
 Ga eens bij jezelf na. Heb je ooit een moment gehad waarbij je aannames totaal niet klopte? Heel menselijk natuurlijk. Je hersenen doen het automatisch. Zelfs ik, als schrijver, kan er bijna niet aan ontkomen om aannames te doen over mijn lezer. Wie is mijn lezer? Hoe zou deze mijn artikel ontvangen? Zou hij/zij (jij) ook deze situaties kennen? Ik zal proberen in dit artikel mijn aannames zoveel mogelijk in het midden te houden. 
 
@@ -46,21 +48,21 @@ Hoe werkt dat dan? Dat testen… [Lees dat hier!](/Artikelen/Testen_in_5_stappen
 
 ## Bronnen
 
-https://www.desteven.nl/leerdoelen/persoonlijke-leerdoelen/persoonlijke-effectiviteit-leerdoelen/niet-invullen-voor-een-ander
+* https://www.desteven.nl/leerdoelen/persoonlijke-leerdoelen/persoonlijke-effectiviteit-leerdoelen/niet-invullen-voor-een-ander
 
-https://hetnlpcollege.nl/nivea-niet-invullen-voor-een-ander/
+* https://hetnlpcollege.nl/nivea-niet-invullen-voor-een-ander/
 
-https://www.confront.nl/artikelen/709-invullen-voor-de-ander-zorgt-voor-problemen-in-relaties/
+* https://www.confront.nl/artikelen/709-invullen-voor-de-ander-zorgt-voor-problemen-in-relaties/
 
-https://www.byaranka.nl/nivea-niet-invullen-voor-een-ander/
+* https://www.byaranka.nl/nivea-niet-invullen-voor-een-ander/
 
-https://www.nivea.nl/over-ons/ons-bedrijf/merk-en-onderneming
+* https://www.nivea.nl/over-ons/ons-bedrijf/merk-en-onderneming
 
-https://www.ndr.de/kultur/geschichte/koepfe/Oscar-Troplowitz-Der-Nivea-Erfinder,troplowitz107.html
+* https://www.ndr.de/kultur/geschichte/koepfe/Oscar-Troplowitz-Der-Nivea-Erfinder,troplowitz107.html
 
-https://books.google.nl/books?id=zXDkT-A-ggEC&pg=PA79&lpg=PA79&dq=aannames+maken+onderzoek&source=bl&ots=tIQF3HYFNd&sig=w9wzTbZcVJpFgCy8UzoLlnXbUws&hl=nl&sa=X&ved=0ahUKEwiswZjp0uXbAhVDDewKHQtnBuMQ6AEISTAD#v=onepage&q=aannames%20maken%20onderzoek&f=false
+* https://books.google.nl/books?id=zXDkT-A-ggEC&pg=PA79&lpg=PA79&dq=aannames+maken+onderzoek&source=bl&ots=tIQF3HYFNd&sig=w9wzTbZcVJpFgCy8UzoLlnXbUws&hl=nl&sa=X&ved=0ahUKEwiswZjp0uXbAhVDDewKHQtnBuMQ6AEISTAD#v=onepage&q=aannames%20maken%20onderzoek&f=false
 
-http://www.hrbase.nl/profiles/blogs/selectieve-waarneming
+* http://www.hrbase.nl/profiles/blogs/selectieve-waarneming
 
 
 
