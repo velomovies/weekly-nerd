@@ -1,6 +1,6 @@
 [Vorige](/Weekly-Nerd/7_Bluetooth.md) | [Volgende](/Weekly-Nerd/9_Webstandards.md)
 
-# 8. Vitaly Friedman - Where we are heading
+# 8. Vitaly Friedman - The good, the bad and the interesting
 
 Vitaly geeft een mooie presentatie over zijn weg naar een redesign van zijn website voor `Smashing Magazine`. Hij laat zijn visie zien van 'goede' en 'slechte' websites.
 

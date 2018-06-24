@@ -2,7 +2,12 @@
 
 # De eeuwige discussie
 
-Mac of windows
+Eeuwig is het nog niet. Sterker nog, deze discussie bestaat nog niet langer dan 15 jaar. Eindeloos lijkt hij wel. Iedereen weet er wel iets over te zeggen en er leukt geen tussenweg.
+
+Wat moet je nou? Mac of Windows.
+
+![Mac of windows](https://static.apparata.nl/images/2014/mac-of-windows.jpg)
+> Apparata
 
 ## Bronnen
 

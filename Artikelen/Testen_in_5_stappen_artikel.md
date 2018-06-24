@@ -21,7 +21,7 @@ De opgesplitste functionaliteiten zijn handig om te weten. Naast dat het handig 
 Stap 3 begint bij het bedenken wat er precies getest moet worden. Het uiteindelijke doel is om alles van het product te testen. Door het product op te splitsen (wat gebeurt is in stap 2) wordt het voor de tester en de geteste veel overzichtelijker. Onderstaand is een voorbeeld van een testplan:
 
 [Voorbeeld testplan](images/Testplan.pdf)
-> Voorbeeld test plan van CMD
+> Voorbeeld testplan van CMD
  
 Het is ook goed om in deze stap te bedenken op welke manier er getest moet worden. Voorbeelden hiervan zijn:
 

@@ -9,7 +9,7 @@ In de minor webdevelopment hebben we een aantal presentaties gehad over relevant
 5. [Employees of De voorhoede](/Weekly-Nerd/5_De_Voorhoede.md)
 6. [Ischa Gast - Schiphol - Accesibility](/Weekly-Nerd/6_Schiphol.md)
 7. [Niels Leenheer - Bluetooth in de browser](/Weekly-Nerd/7_Bluetooth.md)
-8. [Vitaly Friedman - Where we are heading](/Weekly-Nerd/8_Vitaly.md)
+8. [Vitaly Friedman - The good, the bad and the interesting](/Weekly-Nerd/8_Vitaly.md)
 9. [Bruce Lawson - Webstandards](/Weekly-Nerd/9_Webstandards.md)
 
 En 'officieel' nummer 10 [Hackathon](/Artikelen/Mackathon_artikel.md) (Staat ook bij de artikelen)
