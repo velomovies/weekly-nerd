@@ -4,8 +4,8 @@ Niels Leenheer komt een nieuwe techniek laten zien. Bluetooth in de browser, waa
 
 ## Sketchnotes
 
-![Screenshot van sketchnotes](Weekly-Nerd/images/7_Bluetooth-1.png)
+![Screenshot van sketchnotes](images/7_Bluetooth-1.png)
 
 ---
 
-![Screenshot van sketchnotes](Weekly-Nerd/images/7_Bluetooth-2.png)
+![Screenshot van sketchnotes](images/7_Bluetooth-2.png)

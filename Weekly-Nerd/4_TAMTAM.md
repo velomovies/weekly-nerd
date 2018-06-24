@@ -4,8 +4,8 @@ TAM TAM geeft een uitleg over hun manier van werken. Hoe starten zij projecten e
 
 ## Sketchnotes
 
-![Screenshot van sketchnotes](Weekly-Nerd/images/4_TAMTAM-1.png)
+![Screenshot van sketchnotes](images/4_TAMTAM-1.png)
 
 ---
 
-![Screenshot van sketchnotes](Weekly-Nerd/images/4_TAMTAM-2.png)
+![Screenshot van sketchnotes](images/4_TAMTAM-2.png)

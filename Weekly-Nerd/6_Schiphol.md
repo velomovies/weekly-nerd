@@ -4,8 +4,8 @@ Bij schiphol krijgen wij een uitgebreide uitleg over accesibility. Er worden enk
 
 ## Sketchnotes
 
-![Screenshot van sketchnotes](Weekly-Nerd/images/6_Schiphol-1.png)
+![Screenshot van sketchnotes](images/6_Schiphol-1.png)
 
 ---
 
-![Screenshot van sketchnotes](Weekly-Nerd/images/6_Schiphol-2.png)
+![Screenshot van sketchnotes](images/6_Schiphol-2.png)

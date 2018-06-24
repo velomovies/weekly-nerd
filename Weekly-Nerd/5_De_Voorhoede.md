@@ -4,8 +4,8 @@ De Voorhoede geeft hun idee over progressive enhencement. Ze laten zien hoe zij 
 
 ## Sketchnotes
 
-![Screenshot van sketchnotes](Weekly-Nerd/images/5_Voorhoede-1.png)
+![Screenshot van sketchnotes](images/5_Voorhoede-1.png)
 
 ---
 
-![Screenshot van sketchnotes](Weekly-Nerd/images/5_Voorhoede-2.png)
+![Screenshot van sketchnotes](images/5_Voorhoede-2.png)

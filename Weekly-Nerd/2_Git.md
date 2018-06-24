@@ -4,12 +4,12 @@ Titus Wormer verteld over Git en Github. Waar komt het vandaan en hoe werkt het.
 
 ## Sketchnotes
 
-![Screenshot van sketchnotes](Weekly-Nerd/images/2_Git-1.png)
+![Screenshot van sketchnotes](images/2_Git-1.png)
 
 ---
 
-![Screenshot van sketchnotes](Weekly-Nerd/images/2_Git-2.png)
+![Screenshot van sketchnotes](images/2_Git-2.png)
 
 ---
 
-![Screenshot van sketchnotes](Weekly-Nerd/images/2_Git-3.png)
+![Screenshot van sketchnotes](images/2_Git-3.png)

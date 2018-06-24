@@ -4,8 +4,8 @@ Peter Paul Koch geeft een presentatie over zijn idee over browsers. Tegenwoordig
 
 ## Sketchnotes
 
-![Screenshot van sketchnotes](Weekly-Nerd/images/3_PeterPaul-1.png)
+![Screenshot van sketchnotes](images/3_PeterPaul-1.png)
 
 ---
 
-![Screenshot van sketchnotes](Weekly-Nerd/images/3_PeterPaul-2.png)
+![Screenshot van sketchnotes](images/3_PeterPaul-2.png)
