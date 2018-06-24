@@ -1,7 +1,5 @@
 [Vorige](/Artikelen/Mackathon_artikel.md) | [Volgende](/Artikelen/Testen_in_5_stappen_artikel.md)
 
----
-
 # Nivea
 
 Het gaat al meer dan 100 jaar terug en vandaag de dag wordt het nog steeds rijkelijk gebruikt. Wie kent het niet, nivea. 

@@ -1,3 +1,5 @@
+[Vorige](/Weekly-Nerd/8_Vitaly.md)
+
 # 9. Bruce Lawson - Webstandards
 
 Bruce Lawson, van W3C, verteld ons over webstandaarden. W3C schrijft de webstandaarden. Hij laat zien waar standaarden vandaan komen en hoe webstandaarden tegenwoordig worden geschreven.
@@ -13,3 +15,7 @@ Bruce Lawson, van W3C, verteld ons over webstandaarden. W3C schrijft de webstand
 ---
 
 ![Screenshot van sketchnotes](images/9_Webstandards-3.png)
+
+---
+
+[Vorige](/Weekly-Nerd/8_Vitaly.md)

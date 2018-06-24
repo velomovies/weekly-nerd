@@ -1,7 +1,5 @@
 [Volgende](/Artikelen/Nivea_artikel.md)
 
----
-
 # Mackathon
 
 ‘Hackathon…’ Nouja… dat is een groot woord. In 4 uur een product in elkaar ‘hacken.’

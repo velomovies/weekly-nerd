@@ -1,3 +1,5 @@
+[Vorige](/Weekly-Nerd/5_De_Voorhoede.md) | [Volgende](/Weekly-Nerd/7_Bluetooth.md)
+
 # 6. Ischa Gast - Schiphol - Accesibility
 
 Bij schiphol krijgen wij een uitgebreide uitleg over accesibility. Er worden enkele voorbeelden laten zien en laten zien hoe er getest kan worden op accesibility. Een blinde man is aanwezig die laat zien hoe hij werkt op het web. 
@@ -9,3 +11,7 @@ Bij schiphol krijgen wij een uitgebreide uitleg over accesibility. Er worden enk
 ---
 
 ![Screenshot van sketchnotes](images/6_Schiphol-2.png)
+
+---
+
+[Vorige](/Weekly-Nerd/5_De_Voorhoede.md) | [Volgende](/Weekly-Nerd/7_Bluetooth.md)
