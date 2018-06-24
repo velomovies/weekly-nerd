@@ -6,7 +6,7 @@ Vitaly geeft een mooie presentatie over zijn weg naar een redesign van zijn webs
 
 ## ~Sketchnotes~ Video
 
-De meest uitgebreide weeklynerd heb ik kunnen documenteren met een video. De talk van 1 uur heb ik gefilmd en in elkaar bewerkt samen met de slides van de presentatie.
+De meest uitgebreide weeklynerd heb ik kunnen documenteren met een video. De talk van 1 uur heb ik gefilmd en berwerkt in 4 uur samen met de slides van de presentatie.
 
 De video is [hier](https://drive.google.com/open?id=1AcebyHj_ocvwYHfBv25OFnOs4Un3dSVJ) te vinden.
 

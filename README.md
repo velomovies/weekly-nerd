@@ -12,6 +12,8 @@ In de minor webdevelopment hebben we een aantal presentaties gehad over relevant
 8. [Vitaly Friedman - Where we are heading](/Weekly-Nerd/8_Vitaly.md)
 9. [Bruce Lawson - Webstandards](/Weekly-Nerd/9_Webstandards.md)
 
+En 'officieel' nummer 10 [Hackathon](/Artikelen/Mackathon_artikel.md) (Staat ook bij de artikelen)
+
 # Artikelen
 
 Naast de Weekly Nerd heb ik zelf 5 uitgebreide artikelen geschreven met uiteenlopende onderwerpen.
