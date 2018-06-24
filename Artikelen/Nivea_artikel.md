@@ -8,7 +8,7 @@ Als je nu denkt dat ik het over die witte huidcrème heb, heb je het goed mis. D
 
 Nivea is een hele mooie afkorting voor: 
 
-**__N__iet __I__nvullen __V__oor __E__en __A__nder.**
+**Niet Invullen Voor Een Ander.**
 
 Ga eens bij jezelf na. Heb je ooit een moment gehad waarbij je aannames totaal niet klopte? Heel menselijk natuurlijk. Je hersenen doen het automatisch. Zelfs ik, als schrijver, kan er bijna niet aan ontkomen om aannames te doen over mijn lezer. Wie is mijn lezer? Hoe zou deze mijn artikel ontvangen? Zou hij/zij (jij) ook deze situaties kennen? Ik zal proberen in dit artikel mijn aannames zoveel mogelijk in het midden te houden. 
 

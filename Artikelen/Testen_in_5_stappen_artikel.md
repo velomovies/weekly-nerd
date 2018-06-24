@@ -6,7 +6,7 @@ Testen is zeer belangrijk bij het bedenken en maken van een concept. Het wordt v
 
 **1. Een concept**
 
-Een concept is een belangrijk startpunt om te kunnen testen. Zonder concept kan er niets getest worden. H
+Een concept is een belangrijk startpunt om te kunnen testen. Zonder concept kan er niets getest worden. Bij het bedenken van een concept moet er een probleem opgelost worden. Dit probleem moet goed onthouden worden. Tijdens het proces van Testen moet het probleem ook getest worden. Is dit ook echt een probleem en lost de oplossing dit probleem ook echt op? 
 
 
 **2. Wat is je core functionaliteit**
@@ -24,5 +24,7 @@ Nu is het zover! Het testen kan beginnen. Na de drie stappen van hierboven zou d
 **5. Itereren**
 
 Na het testen komen er altijd veel dingen naar voren. 
+
+Zodra stap 5 klaar is, is het testen nog niet klaar. Het blijft een proces van itereren. Vanaf hier moet alles herhaald worden vanaf stap 3. Bij het maken van een volgend testplan moet er getest worden op een iteratie of een toegevoegd element. Door elementen één voor één te testen kan het concept veel concreter worden.
 
 ## Bronnen
