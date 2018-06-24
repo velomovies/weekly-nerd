@@ -16,11 +16,14 @@ Een betere vraag zou zijn wat jij vindt. Wat denk jij als lezer, als geïnteress
 
 ## Informatieverwerking
 
+![Plaatje brein](http://s.numrush.nl/wp-content/uploads/2016/06/Brein.jpg)
+> numrush
+
 Onze hersenen nemen ons eigenlijk altijd in de maling. Ze nemen ‘shortcuts’ bij het interpreteren van informatie. Het gaat eigenlijk vanzelf. Zo zullen zij automatisch een een zin goed schrijven terwijl dat misschien helemaal niet het geval hoeft te zijn. Heb je zojuist het woordje “een” dubbel gelezen? Zo ja, dan ben je heel bewust aan het lezen. Als je het woord niet dubbel gezien hebt dan komt dat doordat je hersenen deze dubbeling automatisch hebben gecorrigeerd, zodat de zin logischer is. 
 
 Dit gebeurt bij alles wat je doet, waardoor het ook makkelijker is om jezelf in de maling te nemen. Zodra wij informatie binnen krijgen zijn we geneigd om die informatie op onze eigen manier te interpreteren. We kunnen er daardoor nauwelijks objectief naar kijken.
 
-[https://www.youtube.com/watch?v=IGQmdoK_ZfY](https://www.youtube.com/watch?v=IGQmdoK_ZfY)
+https://www.youtube.com/watch?v=IGQmdoK_ZfY
 
 Deze video laat mooi zien hoe ons brein ons voor de gek kan houden. Wat je ziet, is niet perse wat er gebeurt.
 

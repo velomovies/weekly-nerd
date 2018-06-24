@@ -54,6 +54,8 @@ Ons prototype is klaar. We moeten het presenteren. Na een lange dag hacken hebbe
 
 Iedereen heeft zijn prototype laten zien en nu komt het belangrijkst van de dag. We sluiten het natuurlijk af met een lekkere borrel.
 
+![Foto](images/hackathon.jpg)
+
 ## Conclusie
 
 Bij deze mackathon ging het heel weinig over de lessen die wij hebben gehad bij de minor. Het was meer een soort auditie. Bij een auditie laat je zien wat je kan. Het laten horen van een toonladder, je bereik tonen. Deze mackathon had hetzelfde gevoel. Je schrijft de code niet voor productie, maar vooral zo, dat het werkt. Je laat je bereik zien van de code. Daarnaast vraagt het veel van je oplossend vermogen. Hoe kan je iets bereiken in een hele korte tijd. 
