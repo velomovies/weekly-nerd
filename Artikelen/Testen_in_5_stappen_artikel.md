@@ -20,7 +20,7 @@ De opgesplitste functionaliteiten zijn handig om te weten. Naast dat het handig 
  
 Stap 3 begint bij het bedenken wat er precies getest moet worden. Het uiteindelijke doel is om alles van het product te testen. Door het product op te splitsen (wat gebeurt is in stap 2) wordt het voor de tester en de geteste veel overzichtelijker. Onderstaand is een voorbeeld van een testplan:
 
-[Voorbeeld testplan](images/Tesplan.pdf)
+[Voorbeeld testplan](images/Testplan.pdf)
 > Voorbeeld test plan van CMD
  
 Het is ook goed om in deze stap te bedenken op welke manier er getest moet worden. Voorbeelden hiervan zijn:
@@ -48,7 +48,7 @@ Na het testen komen er altijd veel dingen naar voren. Misschien zijn het dingen 
 Als de mogelijkheid er is om kleine veranderingen tussen het testen te kunnen doen, doe het! Door snel op testen te reageren kan een eventuele oplossing direct weer worden getest. Daarnaast blijft er dan altijd weer nieuw feedback komen, in plaats van alles wat er al gezegd is.
  
 Zodra stap 5 klaar is, is het testen nog niet klaar. Het blijft een proces van itereren. Vanaf hier moet alles herhaald worden vanaf stap 3. Bij het maken van een volgend testplan moet er getest worden op een iteratie of een toegevoegd element. Door elementen één voor één te testen kan het concept veel concreter worden.
- 
+
 ## Bronnen
 
 * https://www.smashingmagazine.com/2018/03/guide-user-testing/
