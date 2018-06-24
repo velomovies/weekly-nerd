@@ -1,5 +1,7 @@
 [Volgende](/Artikelen/Nivea_artikel.md)
 
+---
+
 # Mackathon
 
 ‘Hackathon…’ Nouja… dat is een groot woord. In 4 uur een product in elkaar ‘hacken.’
@@ -62,4 +64,8 @@ Bij deze mackathon ging het heel weinig over de lessen die wij hebben gehad bij 
 
 * https://en.oxforddictionaries.com/definition/hackathon
 * https://www.techopedia.com/definition/23193/hackathon
+
+---
+
+[Volgende](/Artikelen/Nivea_artikel.md)
 

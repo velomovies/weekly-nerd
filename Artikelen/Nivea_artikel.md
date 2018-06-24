@@ -1,5 +1,7 @@
 [Vorige](/Artikelen/Mackathon_artikel.md) | [Volgende](/Artikelen/Testen_in_5_stappen_artikel.md)
 
+---
+
 # Nivea
 
 Het gaat al meer dan 100 jaar terug en vandaag de dag wordt het nog steeds rijkelijk gebruikt. Wie kent het niet, nivea. 
@@ -49,20 +51,17 @@ Hoe werkt dat dan? Dat testen… [Lees dat hier!](/Artikelen/Testen_in_5_stappen
 ## Bronnen
 
 * https://www.desteven.nl/leerdoelen/persoonlijke-leerdoelen/persoonlijke-effectiviteit-leerdoelen/niet-invullen-voor-een-ander
-
 * https://hetnlpcollege.nl/nivea-niet-invullen-voor-een-ander/
-
 * https://www.confront.nl/artikelen/709-invullen-voor-de-ander-zorgt-voor-problemen-in-relaties/
-
 * https://www.byaranka.nl/nivea-niet-invullen-voor-een-ander/
-
 * https://www.nivea.nl/over-ons/ons-bedrijf/merk-en-onderneming
-
 * https://www.ndr.de/kultur/geschichte/koepfe/Oscar-Troplowitz-Der-Nivea-Erfinder,troplowitz107.html
-
 * https://books.google.nl/books?id=zXDkT-A-ggEC&pg=PA79&lpg=PA79&dq=aannames+maken+onderzoek&source=bl&ots=tIQF3HYFNd&sig=w9wzTbZcVJpFgCy8UzoLlnXbUws&hl=nl&sa=X&ved=0ahUKEwiswZjp0uXbAhVDDewKHQtnBuMQ6AEISTAD#v=onepage&q=aannames%20maken%20onderzoek&f=false
-
 * http://www.hrbase.nl/profiles/blogs/selectieve-waarneming
+
+---
+
+[Vorige](/Artikelen/Mackathon_artikel.md) | [Volgende](/Artikelen/Testen_in_5_stappen_artikel.md)
 
 
 
