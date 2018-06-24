@@ -22,7 +22,7 @@ Het is… **KOP**
 ![Apple logo](https://www.apple.com/news/images/og.png?201804161402)
 > Apple
 
-Apple maakt sinds 1998 al de Mac. Ze worden eigenlijk gezien als de starter van de consumenten computers. Sinds het begin zijn ze aan het proberen de computer markt over te nemen. En enkele jaren met succes. Nu zijn ze samen met Windows de grootste in het produceren van besturingssystemen van consumenten computers.
+Apple maakt sinds 1998 al de Mac. Ze worden eigenlijk gezien als de starter van de consumenten computers. Sinds het begin proberen zij de computer markt over te nemen en met enkele jaren met succes. Nu zijn ze samen met Windows de grootste in het produceren van besturingssystemen van consumenten computers.
 
 ## Windows
 
@@ -63,7 +63,7 @@ Door dit alles op een rij te zetten hoopte ik een duidelijker beeld te krijgen v
 Deze vraag kreeg aan de hand van mijn onderzoek naar Mac en Windows. Er zijn niet veel mensen die met allebei werken. Een Mac én een Windows. Een Apple telefoon en Windows computer gaat echter wel vaker samen. Waarom is dat dan niet het geval met het werken op de computer? 
 Het is natuurlijk zo dat er niet veel mensen twee computers hebben, maar de mensen die dat wel hebben, hebben niet vaak twee verschillende besturingssystemen. En dit is misschien wel dé reden om een Mac te kopen voor mijzelf. Om antwoord te geven op mijn eigen vraag.  
 
-Het lastige is dat iedereen zo zijn eigen reden heeft om een besturingssysteem te kiezen. Deze discussie lijkt eindeloos en ik verwacht ook niet dat mijn artikel het opgelost zou hebben. Misschien heb je zelf al wel wat voorkeur. Ja? Dan is dat het grootste probleem. Iedereen denkt er anders over. Iedereen heeft een eigen mening. En aangezien ik mijn eigen visie zou laten horen, raad ik iedereen aan; Gebruik Windows! <sup>(of mac als je dat perse wil)</sup>
+Het lastige is dat iedereen zo zijn eigen reden heeft om een besturingssysteem te kiezen. Deze discussie lijkt eindeloos en ik verwacht ook niet dat mijn artikel het opgelost zou hebben. Misschien heb je zelf al een voorkeur (Daar ga ik in ieder geval wel van uit). Iedereen denkt er anders over. Iedereen heeft een eigen mening. En aangezien ik mijn eigen visie zou laten horen, raad ik iedereen aan; Gebruik Windows! <sup>(of mac als je dat perse wil)</sup>
 
 ## Bronnen
 
